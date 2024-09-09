@@ -1,10 +1,10 @@
 # About Me ℹ️
 
-- 😀 Hi, I’m Olaf Szymański and my passion is coding
+- 😀 Hi, my name is Olaf Szymański and my passion is coding
 - 👀 Programming since the age of 11 
 - 🤓 Constantly working on improving my software engineering skills
 - 🐿️ Currently learning Go
-- 📫 If you have any inquiries you can contant me at this e-mail: olaf.szym123@gmail.com
+- 📫 If you have any inquiries you can contact me at: olaf.szym123@gmail.com
 
 # Tech Stack 🖥️
 #### So far, throughout my programming journey I've learnt following technologies...
